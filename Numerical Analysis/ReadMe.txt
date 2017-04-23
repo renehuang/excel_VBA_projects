@@ -42,3 +42,18 @@ Using the given market data of the volatility smile by delta to compute & plot d
 4). Produce the graphs
 
 For the cubic spline, user will control the “2 degree of freedom”. (Natural Spline, given first derivatives & given second derivatives)
+
+
+
+
+
+
+
+3. Implied Volatility
+
+Using numerical methods to solve out the implied volatility of BS model (knowing option value/ portfolio value)
+Discuss the convergence of each method
+
+1). Newton's Method
+2). Regula Falsi Method
+3). Secant Method
