@@ -57,3 +57,9 @@ Discuss the convergence of each method
 1). Newton's Method
 2). Regula Falsi Method
 3). Secant Method
+
+
+
+4. Finite Difference Method
+
+Using the finite difference method to solve the Option value. Compare the value with BSM formula and plot the PDE discrepency.
